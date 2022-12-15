@@ -9,7 +9,7 @@ Hc Tools Script Codebased ( Recoded Version 2022 )
 
 # Requirements
 
-- Download Node.JS [Download Here](https://nodejs.org/en/download/ "Node.JS Download") / apt install nodejs
+- Download Node.JS [Download Here](https://nodejs.org/en/download/ "Node.JS Download") / pkg install nodejs
 
 - Once installed Node.JS, execute "install-dep" .sh/.bat script depending on your platform, or...
 
