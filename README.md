@@ -4,18 +4,24 @@
 This is an SocksHttps Config Decrypt Tool -- Made With Love By Project SSLaB LK 🇱🇰
 Hc Tools Script Codebased ( Recoded Version 2022 )
 
-- Download Node.JS [Download Here](https://nodejs.org/en/download/ "Node.JS Download")
+# Requirements
+
+- Download Node.JS [Download Here](https://nodejs.org/en/download/ "Node.JS Download") / apt install nodejs
 
 - Once installed Node.JS, execute "install-dep" .sh/.bat script depending on your platform, or...
 
 - ... execute `npm update --save` in the same folder as the script.
 
-# How to Use
 
-  > Fast Download The repo
-  > Open your terminal (Termux)
-  > Set location on sks.js folder
-  > Copy
+# Usage
+
+- Move your .sks file to the same folder where the script is located
+
+- Execute `node sksdecrypt.js /path/to/file.sks'
+
+- The decoded output will be displayed to console.
+
+
 
 ## Cantribution
    • HcTools
