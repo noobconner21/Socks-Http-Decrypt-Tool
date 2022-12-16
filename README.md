@@ -29,7 +29,7 @@ Hc Tools Script Codebased ( Recoded Version 2022 )
 
   • https://vimeo.com/781421274
 
-## Cantribution
+## Credits
    • HcTools
    
 By Project SSLaB LK 🇱🇰
