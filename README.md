@@ -28,6 +28,7 @@ Hc Tools Script Codebased ( Recoded Version 2022 )
 # Tutorial 
 
   • https://vimeo.com/781421274
+  • https://t.me/shaystudiolab/217
 
 ## Credits
    • HcTools
